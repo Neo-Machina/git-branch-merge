@@ -1,0 +1,32 @@
+/*RESET*/
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*COMMON*/
+p {
+    text-transform: uppercase;
+}
+
+.cars-container {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: 2.5rem 0;
+}
+
+.cards {
+    margin: 1rem;
+}
+
+.card {
+    width: 150px;
+    height: 270px;
+    text-align: center;
+}
+    
+    
