@@ -7,6 +7,10 @@
 
 /*COMMON*/
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 h1 {
     color: orangered;
     text-transform: uppercase;
@@ -18,14 +22,13 @@ img {
 }
 
 .container {
-    display: flex;
-    justify-content: center;
-    align-items: center;
     padding: 2.5rem 0;
+    text-align: center;
 }
 
 .row{
     display: flex;
+    justify-content: center;
     flex-direction: row;
     flex-wrap: wrap;
 }
@@ -35,9 +38,15 @@ img {
 }
 
 .car_card {
-    width: 150px;
-    height: 270px;
+    width: 300px;
+    height: 500px;
     text-align: center;
+    background-color: lightcoral;
+}
+
+.little_text {
+    text-transform: uppercase;
+    margin: 20px;
 }
     
     
