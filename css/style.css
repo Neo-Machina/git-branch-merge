@@ -10,7 +10,12 @@ p {
     text-transform: uppercase;
 }
 
-.cars-container {
+img {
+    width: 200px;
+    height: 200px;
+}
+
+.container {
     display: flex;
     flex-direction: row;
     justify-content: center;
@@ -19,11 +24,11 @@ p {
     padding: 2.5rem 0;
 }
 
-.cards {
+.col {
     margin: 1rem;
 }
 
-.card {
+.car_card {
     width: 150px;
     height: 270px;
     text-align: center;
