@@ -20,6 +20,7 @@ h1 {
 img {
     width: 300px;
     height: 300px;
+    border-radius: 20px;
 }
 
 .container {
@@ -42,7 +43,8 @@ img {
     width: 300px;
     height: 500px;
     text-align: center;
-    background-color: lightcoral;
+    background-color: lightsalmon;
+    border-radius: 20px;
 }
 
 .little_text {
