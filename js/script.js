@@ -6,7 +6,7 @@ var app = new Vue(
         },
         methods: {
             getCarsFromAPI() {
-                axios.get('http://localhost:8888/git-branch-merge/server.php')
+                axios.get('./server.php')
                 .then((response) => {
                     this.cars = response.data;
                 });
