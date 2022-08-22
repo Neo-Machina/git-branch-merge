@@ -5,7 +5,7 @@ $car_db = [
         'model' => 'panda',
         'year' => '2006',
         'displacement' => '51 Kw',
-        'image' => 'https://duckduckgo.com/?q=cilindrta+fiat+panda&t=chromentp&atb=v314-1&iax=images&ia=images&iai=https%3A%2F%2Fginettorizzutiauto.it%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fpreview%2Fpublic%2Fimages%2Fgalleries%2FWhatsApp%2520Image%25202020-02-11%2520at%252017.07.36%2520(2)_1.jpeg%3Fitok%3DMJMguxFs',
+        'image' => 'https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fginettorizzutiauto.it%2Fsites%2Fdefault%2Ffiles%2Fstyles%2Fpreview%2Fpublic%2Fimages%2Fgalleries%2FWhatsApp%2520Image%25202020-02-11%2520at%252017.07.36%2520(2)_1.jpeg%3Fitok%3DMJMguxFs&f=1&nofb=1',
     ],
     [
         'brand' => 'alfa romeo',
